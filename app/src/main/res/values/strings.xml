@@ -14,7 +14,7 @@
      limitations under the License.
 -->
 <resources>
-    <string name="app_name">IPTV Source</string>
+    <string name="app_name">IPTVSource</string>
     <string name="company_name" translatable="false">Your Company</string>
     <string name="rich_input_label" translatable="false">IPTV</string>
     <string name="rich_input_feed_url" translatable="false">http://commondatastorage.googleapis.com/android-tv/rich_tv_input_xmltv_feed.xml</string>
